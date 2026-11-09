@@ -1,6 +1,6 @@
 {
-  "folio": "FORD-ECOSPORT-2013",
-  "hora": "15:35",
+  "folio": "ford-ecosport-2013",
+  "hora": "12:30",
   "propietario": "AMANDA KARINA MONTEJO SANCHEZ",
   "rfc": "XAXX010101000",
   "placas": "",
@@ -13,6 +13,5 @@
   "serie": "9BFUP3ST4D8830662",
   "motor": "S/N",
   "linea": "ECO SPORT",
-  "version": "MOTOR 1.6 LTS",
   "total": "450.00"
 }
